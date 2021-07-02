@@ -14,10 +14,10 @@
         "password": "<<mysql Password>>"
     },
     "mongo": {
-        "username": "<<Mongo User name>>",
-        "password": "<<Mongo Password>>",
+        "username": "",
+        "password": "",
         "host": "localhost",
-        "db_name": "<<db name>>"
+        "db_name": "socioboardNode"
     },
     "profile_add_redirect_url": "https://localhost:3000/v1/team/addSocialProfile",
     "facebook_api": {
